@@ -6,4 +6,4 @@ df = as.data.frame(random_data)
 colnames(df) = headers
 print(df)
 
-write.csv(df, "outputs/table_output.csv")
+write.csv(df, "outputs/table_output2.csv")
