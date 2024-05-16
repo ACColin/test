@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-table_output.csv
+outputs/table_output.csv
+
